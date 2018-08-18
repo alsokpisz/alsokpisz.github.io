@@ -63,7 +63,7 @@ h1,h2,h3,h4,h5,h6 {
   display:none;
 }
 
-#projectlist {
+#project_list {
   display:none;
 }
 
@@ -84,7 +84,7 @@ h1,h2,h3,h4,h5,h6 {
   #tv_section_desktop {
     display:block;
   }
-  #projectlist {
+  #project_list {
     display:block;
     margin-top:-1vw;
   }
