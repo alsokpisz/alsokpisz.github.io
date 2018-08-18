@@ -227,8 +227,8 @@ a:hover {
 #contactbar2 {
   display:flex;
   justify-content: space-between;
-  padding-top:1vw;
-  padding-bottom:1vw;
+  padding:1vw;
+  font-size:1vw;
 }
 
 #footer_section {
