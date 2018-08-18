@@ -243,7 +243,6 @@ a:hover {
   display:flex;
   justify-content: space-between;
   padding-top:1.5vw;
-  padding-bottom:0.5vw;
   padding-left:17vw;
   padding-right:17vw;
   font-size:1vw;
@@ -272,4 +271,5 @@ a:hover {
 #credits {
  padding:0.2vw;
  font-size:0.8vw;
+ color:#fff;
 }
