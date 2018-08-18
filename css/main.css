@@ -242,7 +242,7 @@ a:hover {
 #contactbar2 {
   display:flex;
   justify-content: space-between;
-  padding-top:1vw;
+  padding-top:1.5vw;
   padding-bottom:0.5vw;
   padding-left:17vw;
   padding-right:17vw;
