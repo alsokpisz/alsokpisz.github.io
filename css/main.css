@@ -223,3 +223,13 @@ a:hover {
   padding-top:2vw;
   padding-bottom:2vw;
 }
+
+#footer_section {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
