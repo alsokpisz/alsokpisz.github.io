@@ -59,12 +59,10 @@ h1,h2,h3,h4,h5,h6 {
   color: #2A150D;
 }
 
-#desktop_tv {
-  display:none;
-} 
 #tv_section_desktop {
   display:none;
 }
+
 @media screen and (min-width: 1224px) {
   .mobile {
      display: none;
