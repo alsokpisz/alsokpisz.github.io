@@ -269,7 +269,8 @@ a:hover {
 }
 
 #credits {
- padding:0.2vw;
+ padding-top:0.2vw;
+ padding-bottom:0.5vw;
  font-size:0.8vw;
  color:#fff;
 }
