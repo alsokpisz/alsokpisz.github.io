@@ -260,3 +260,7 @@ a:hover {
     font-size:1.2vw;
     padding-top: 0vw;
 }
+
+#facepic {
+ border-radius:1vw;
+}
