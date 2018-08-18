@@ -79,6 +79,9 @@ h1,h2,h3,h4,h5,h6 {
   #desktop_tv {
           display:block;
   }
+ #tv_section_desktop {
+          display:none;
+ }
 }
 
 .chevron {
