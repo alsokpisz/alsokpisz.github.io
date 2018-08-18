@@ -264,3 +264,7 @@ a:hover {
 #facepic {
  border-radius:50px;
 }
+
+#facecontainer {
+ padding-top:0.5vw;
+}
