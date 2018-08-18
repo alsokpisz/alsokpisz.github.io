@@ -95,9 +95,6 @@ h1,h2,h3,h4,h5,h6 {
     font-size: 1vw;
     display:block;
   }
-  .strong {
-    font-size:2vw;
-  }
 }
 
 .chevron {
@@ -245,4 +242,5 @@ a:hover {
     background-color: rgb(250,154,168);
     color: white;
     text-align: center;
+    font-size:2vw;
 }
