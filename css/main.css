@@ -224,12 +224,19 @@ a:hover {
   padding-bottom:2vw;
 }
 
+#contactbar2 {
+  display:flex;
+  justify-content: space-between;
+  padding-top:2vw;
+  padding-bottom:2vw;
+}
+
 #footer_section {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
+    background-color: color: rgb(250,154,168);
     color: white;
     text-align: center;
 }
