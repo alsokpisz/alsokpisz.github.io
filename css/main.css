@@ -63,6 +63,10 @@ h1,h2,h3,h4,h5,h6 {
   display:none;
 }
 
+#projectlist {
+  display:none;
+}
+
 @media screen and (min-width: 1224px) {
   .mobile {
      display: none;
@@ -78,8 +82,13 @@ h1,h2,h3,h4,h5,h6 {
     padding-top:0vw;
   }
   #tv_section_desktop {
-          display:block;
+    display:block;
   }
+  #projectlist {
+    display:block;
+    margin-top:-1vw;
+  }
+ 
 }
 
 .chevron {
