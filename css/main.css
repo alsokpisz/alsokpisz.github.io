@@ -227,8 +227,8 @@ a:hover {
 #contactbar2 {
   display:flex;
   justify-content: space-between;
-  padding-top:2vw;
-  padding-bottom:2vw;
+  padding-top:1vw;
+  padding-bottom:1vw;
 }
 
 #footer_section {
@@ -236,7 +236,7 @@ a:hover {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: color: rgb(250,154,168);
+    background-color: rgb(250,154,168);
     color: white;
     text-align: center;
 }
